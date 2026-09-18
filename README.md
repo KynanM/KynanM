@@ -17,7 +17,7 @@ Based between Ghent and Kortrijk, mobile by car.
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[RAG document assistant](LINK)** | Lets staff at a care organisation ask questions about their internal documents and get grounded answers. I took on ingestion, chunking, vector search and the evaluation of answer quality. Built with a fellow student. | Python · LLM API · vector search |
-| **[AI Video Tracker](https://github.com/KynanM/Video-Tracker)** | Command-line application that lets video creators manage their videos and performance data, with a relational data model and automated Excel reporting. | Python · SQLite · openpyxl |
+| **[Video Tracker](https://github.com/KynanM/Video-Tracker)** | Command-line application that lets video creators manage their videos and performance data, with a relational data model and automated Excel reporting. | Python · SQLite · openpyxl |
 
 ## Tech
 
