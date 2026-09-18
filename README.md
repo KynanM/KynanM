@@ -39,4 +39,4 @@ visible.
 
 ## Contact
 
-kynan.melsens@student.vives.be · [LinkedIn](https://www.linkedin.com/in/kynan-melsens)
+kynan.melsens@student.vives.be · [LinkedIn](https://www.linkedin.com/in/kynan-melsens-103bb7336/)
