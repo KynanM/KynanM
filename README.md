@@ -39,5 +39,6 @@ visible.
 
 ## Contact
 
-kynan.melsens@student.vives.be · [LinkedIn](www.linkedin.com/in/kynan-melsens)
+kynan.melsens@student.vives.be · [LinkedIn](https://www.linkedin.com/in/kynan-melsens
+)
 
